@@ -75,7 +75,7 @@ const players = {
 
 const generalStats = {
   modric: [
-    { label: "Matches Played", value: 836 },
+    { label: "Matches Played", value: 856 },
     { label: "Goals", value: 89 },
     { label: "Minutes Played", value: 61452 },
     { label: "Assists", value: 140 },
