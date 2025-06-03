@@ -1,0 +1,232 @@
+{
+  "selectPlayer": "Select a Player",
+  "players": {
+    "modric": "Luka Modrić",
+    "ronaldo": "Cristiano Ronaldo",
+    "kaka": "Kaká"
+  },
+  "footballLegend": "Football Legend",
+  "footballLegends": "Football Legends",
+  "details": "Details",
+  "honours": "Honours",
+  "stats": "Stats",
+  "home": "Home",
+  "careerTimeline": "Career Timeline",
+  "highlightsMedia": "Highlights / Media",
+  "inGames": "{{name}} in Games",
+  "Matches Played": "Matches Played",
+  "Goals": "Goals",
+  "Minutes Played": "Minutes Played",
+  "Assists": "Assists",
+  "personalDetails": "Personal Details",
+  "competitionStats": "Competition Stats",
+  "playerNotFound": "Player not found.",
+  "Full Name": "Full Name",
+  "Date of Birth": "Date of Birth",
+  "Nationality": "Nationality",
+  "Height": "Height",
+  "Weight": "Weight",
+  "Position": "Position",
+  "Club": "Club",
+  "Jersey Number": "Jersey Number",
+
+  "European Cups": "European Cups",
+  "FIFA Club World Cups": "FIFA Club World Cups",
+  "European Super Cups": "European Super Cups",
+  "National Leagues": "National Leagues",
+  "Spanish Cups": "Spanish Cups",
+  "Spanish Super Cups": "Spanish Super Cups",
+  "Croatian League Titles": "Croatian League Titles",
+  "Croatian Cups": "Croatian Cups",
+  "Croatian Super Cup": "Croatian Super Cup",
+  "Ballon d'Or": "Ballon d'Or",
+  "The Best FIFA Award": "The Best FIFA Award",
+  "UEFA Best Player": "UEFA Best Player",
+  "World Cup Golden Ball": "World Cup Golden Ball",
+  "Bronze Ball at World Cup": "Bronze Ball at World Cup",
+  "FIFA/FIFPRO World XI": "FIFA/FIFPRO World XI",
+  "Champions League Midfielder of the Season": "Champions League Midfielder of the Season",
+  "The Best FIFA Men's Player": "The Best FIFA Men's Player",
+  "UEFA Best Player in Europe": "UEFA Best Player in Europe",
+  "Player of the Year": "Player of the Year",
+  "Champions League Winner": "Champions League Winner",
+  "FIFA Club World Cup Winner": "FIFA Club World Cup Winner",
+  "National League Titles": "National League Titles",
+  "National Cups": "National Cups",
+  "National Super Cups": "National Super Cups",
+  "Golden Boot (Europe)": "Golden Boot (Europe)",
+  "UEFA Super Cup Winner": "UEFA Super Cup Winner",
+  "UEFA Nations League Winner": "UEFA Nations League Winner",
+  "Top Goal Scorer": "Top Goal Scorer",
+  "European Champion": "European Champion",
+  "FIFA Puskás Award": "FIFA Puskás Award",
+  "Footballer of the Year": "Footballer of the Year",
+  "World Cup Winner": "World Cup Winner",
+  "FIFA World Player of the Year": "FIFA World Player of the Year",
+  "UEFA Club Footballer of the Year": "UEFA Club Footballer of the Year",
+  "FIFA Club World Cup": "FIFA Club World Cup",
+  "La Liga Title": "La Liga Title",
+  "Supercoppa Italiana": "Supercoppa Italiana",
+  "Serie A Title": "Serie A Title",
+  "Confederations Cup": "Confederations Cup",
+
+   "Midfielder": "Midfielder",
+  "Forward": "Forward",
+  "Attacking Midfielder": "Attacking Midfielder",
+  "Matches As Starter": "Matches as Starter",
+  "Matches As Substitute": "Matches as Substitute",
+  "Headed Goals": "Headed Goals",
+  "Right Footed Goals": "Right-Footed Goals",
+  "Left Footed Goals": "Left-Footed Goals",
+  "Penalties Taken": "Penalties Taken",
+  "Free Kick Goals": "Free Kick Goals",
+  "Passes": "Passes",
+  "Penalties Scored": "Penalties Scored",
+  "Shots": "Shots",
+  "Fouls Received": "Fouls Received",
+  "Fouls Committed": "Fouls Committed",
+  "Balls Won Back": "Balls Won Back", 
+  "GNK Dinamo Zagreb": "GNK Dinamo Zagreb",
+  "Loan to Zrinjski Mostar": "Loan to Zrinjski Mostar",
+  "Loan to Inter Zaprešić": "Loan to Inter Zaprešić",
+  "Tottenham Hotspur": "Tottenham Hotspur",
+  "EFL Cup Victory": "EFL Cup Victory",
+  "Real Madrid": "Real Madrid",
+  "First Champions League Title with Real Madrid": "First Champions League Title with Real Madrid",
+  "FIFA World Cup Russia 2018": "FIFA World Cup Russia 2018",
+  "Ballon d’Or Winner": "Ballon d’Or Winner",
+  "FIFA Best Men's Player Award": "FIFA Best Men's Player Award",
+  "FIFA World Cup Qatar 2022": "FIFA World Cup Qatar 2022",
+  "Continuing Success at Real Madrid": "Continuing Success at Real Madrid",
+
+  
+  "timelineTitle": "{{name}}'s Career Timeline",
+  "timelineIntro": "Explore the key moments in {{name}}'s career—from early beginnings to legendary status.",
+
+  "Sporting CP Debut": "Sporting CP Debut",
+  "Manchester United": "Manchester United",
+  
+  "Juventus": "Juventus",
+  "Return to Manchester United": "Return to Manchester United",
+  "Al Nassr (Saudi Arabia)": "Al Nassr (Saudi Arabia)",
+
+ 
+
+  "São Paulo FC": "São Paulo FC",
+  "AC Milan": "AC Milan",
+  "Return to AC Milan": "Return to AC Milan",
+  "Orlando City SC": "Orlando City SC",
+  "Retirement": "Retirement",
+
+  "Cristiano Ronaldo began his professional career at Sporting CP in Portugal, showcasing his speed and technical skills.": "Cristiano Ronaldo began his professional career at Sporting CP in Portugal, showcasing his speed and technical skills.",
+  "Ronaldo signed for Manchester United and developed into one of the best players in the world, winning 3 Premier League titles and a Champions League.": "Ronaldo signed for Manchester United and developed into one of the best players in the world, winning 3 Premier League titles and a Champions League.",
+  "A historic move where he broke goal-scoring records, won 4 Champions Leagues, and established himself as a club legend.": "A historic move where he broke goal-scoring records, won 4 Champions Leagues, and established himself as a club legend.",
+  "Continued his winning ways in Italy with back-to-back Serie A titles.": "Continued his winning ways in Italy with back-to-back Serie A titles.",
+  "Made a highly anticipated return to Old Trafford, continuing to score consistently.": "Made a highly anticipated return to Old Trafford, continuing to score consistently.",
+  "Continues his football journey as a global ambassador for the sport.": "Continues his football journey as a global ambassador for the sport.",
+
+ "Luka Modrić began his professional career at Dinamo Zagreb as a promising young midfielder. During this period, he won multiple Croatian league titles and cups, quickly establishing himself as a key player. His impressive performances soon attracted interest from major European clubs.":
+    "Luka Modrić began his professional career at Dinamo Zagreb as a promising young midfielder. During this period, he won multiple Croatian league titles and cups, quickly establishing himself as a key player. His impressive performances soon attracted interest from major European clubs.",
+  
+  "To gain valuable playing time and experience, Modrić was loaned to Bosnian club Zrinjski Mostar, where he demonstrated his potential and matured as a player.":
+    "To gain valuable playing time and experience, Modrić was loaned to Bosnian club Zrinjski Mostar, where he demonstrated his potential and matured as a player.",
+  
+  "Following his spell at Zrinjski, Modrić spent another season on loan at Croatian side Inter Zaprešić, further honing his technique and tactical understanding.":
+    "Following his spell at Zrinjski, Modrić spent another season on loan at Croatian side Inter Zaprešić, further honing his technique and tactical understanding.",
+  
+  "Modrić’s move to Tottenham marked his entry into one of the world's most competitive leagues – the English Premier League. At Spurs, he developed a reputation as a world-class midfielder, known for his exceptional ball control, vision, and precise passing. He quickly became a vital figure in the team.":
+    "Modrić’s move to Tottenham marked his entry into one of the world's most competitive leagues – the English Premier League. At Spurs, he developed a reputation as a world-class midfielder, known for his exceptional ball control, vision, and precise passing. He quickly became a vital figure in the team.",
+  
+  "Modrić helped Tottenham secure the EFL Cup (League Cup), one of his first major trophies abroad.":
+    "Modrić helped Tottenham secure the EFL Cup (League Cup), one of his first major trophies abroad.",
+  
+  "Joining Real Madrid propelled Modrić into the elite echelon of world football. He has since won multiple UEFA Champions League titles, La Liga championships, and FIFA Club World Cups, becoming the team captain and a symbol of the club’s sustained success.":
+    "Joining Real Madrid propelled Modrić into the elite echelon of world football. He has since won multiple UEFA Champions League titles, La Liga championships, and FIFA Club World Cups, becoming the team captain and a symbol of the club’s sustained success.",
+  
+  "A key player in Real Madrid’s historic ‘La Décima’ – their 10th UEFA Champions League title.":
+    "A key player in Real Madrid’s historic ‘La Décima’ – their 10th UEFA Champions League title.",
+  
+  "Modrić captained Croatia to their best-ever World Cup finish – the final – securing a silver medal. His outstanding performances earned him the Golden Ball as the tournament’s best player.":
+    "Modrić captained Croatia to their best-ever World Cup finish – the final – securing a silver medal. His outstanding performances earned him the Golden Ball as the tournament’s best player.",
+  
+  "Recognized for his extraordinary performances for both club and country, Modrić won the prestigious Ballon d’Or, becoming the first Croatian to receive this honor.":
+    "Recognized for his extraordinary performances for both club and country, Modrić won the prestigious Ballon d’Or, becoming the first Croatian to receive this honor.",
+  
+  "Awarded FIFA’s Best Men’s Player for 2018, cementing his status as one of the world’s top footballers.":
+    "Awarded FIFA’s Best Men’s Player for 2018, cementing his status as one of the world’s top footballers.",
+  
+  "Led Croatia once again to a strong World Cup performance, demonstrating his leadership and enduring quality in the twilight of his career.":
+    "Led Croatia once again to a strong World Cup performance, demonstrating his leadership and enduring quality in the twilight of his career.",
+  
+  "Remains a key player for Real Madrid, consistently contributing with top-class performances and helping the club pursue more titles.":
+    "Remains a key player for Real Madrid, consistently contributing with top-class performances and helping the club pursue more titles.",
+
+    "Kaká began his professional career in Brazil with São Paulo FC. He quickly drew attention for his technical skills and creativity on the field.":
+    "Kaká began his professional career in Brazil with São Paulo FC. He quickly drew attention for his technical skills and creativity on the field.",
+  
+  "His transfer to AC Milan marked the beginning of his European career. Kaká became one of the best players in the world, winning Serie A and the UEFA Champions League. In 2007, he was awarded the Ballon d'Or.":
+    "His transfer to AC Milan marked the beginning of his European career. Kaká became one of the best players in the world, winning Serie A and the UEFA Champions League. In 2007, he was awarded the Ballon d'Or.",
+  
+  "Kaká won the prestigious Ballon d'Or, beating out both Lionel Messi and Cristiano Ronaldo to be named the best footballer in the world.":
+    "Kaká won the prestigious Ballon d'Or, beating out both Lionel Messi and Cristiano Ronaldo to be named the best footballer in the world.",
+  
+  "Joining Real Madrid as one of the famed Galácticos, Kaká experienced highs and lows, including injuries. Still, he helped the club win trophies such as La Liga and the Copa del Rey.":
+    "Joining Real Madrid as one of the famed Galácticos, Kaká experienced highs and lows, including injuries. Still, he helped the club win trophies such as La Liga and the Copa del Rey.",
+  
+  "Kaká returned to AC Milan for a brief but emotional stint. While the team struggled competitively, his presence brought experience and leadership.":
+    "Kaká returned to AC Milan for a brief but emotional stint. While the team struggled competitively, his presence brought experience and leadership.",
+  
+  "Kaká moved to Major League Soccer, becoming the first-ever captain of Orlando City. He played a vital role in growing the sport’s popularity in the United States.":
+    "Kaká moved to Major League Soccer, becoming the first-ever captain of Orlando City. He played a vital role in growing the sport’s popularity in the United States.",
+  
+  "Kaká officially retired from professional football, leaving behind a legacy as one of the most beloved and respected players of his generation.":
+    "Kaká officially retired from professional football, leaving behind a legacy as one of the most beloved and respected players of his generation.",
+  "highlights": {
+    "title": "Highlights & Media: {{player}}",
+    "description": "A curated collection of iconic moments, video highlights, and inspirational quotes from {{player}}’s legendary career.",
+    "videoHighlights": "Video Highlights",
+    "iconicPhotos": "Iconic Photos",
+    "quotesAndSayings": "Quotes & Sayings"
+  },
+   "The team is always more important than the individual.": "The team is always more important than the individual.",
+  "I strive to improve every single day.": "I strive to improve every single day.",
+  "Focus and hard work are the keys to success.": "Focus and hard work are the keys to success.",
+
+  "Your love makes me strong, your hate makes me unstoppable.": "Your love makes me strong, your hate makes me unstoppable.",
+  "Talent without working hard is nothing.": "Talent without working hard is nothing.",
+  "I’m living a dream I never want to wake up from.": "I’m living a dream I never want to wake up from.",
+
+  "I belong to Jesus.": "I belong to Jesus.",
+  "Success is not about wealth or fame; it's about being the best version of yourself.": "Success is not about wealth or fame; it's about being the best version of yourself.",
+  "Football is just part of my life, not my entire life.": "Football is just part of my life, not my entire life.",
+
+  "footer": {
+    "aboutTitle": "About",
+    "aboutDescription": "Website dedicated to football legends.",
+    "quickLinksTitle": "Quick Links",
+    "playerMenu": "Player Menu",
+    "contactTitle": "Contact",
+    "contactEmail": "Email: luka.obad@gmail.com",
+    "copyright": "© {{year}} Made by Luka Obad. All rights reserved."
+  },
+  
+  "pageTitle": "{{name}} in Video Games",
+  "pageDescription": "{{description}}",
+  "ratingsTitle": "🎮 FIFA Ratings Over the Years",
+  "visualEvolutionTitle": "📺 Visual Evolution",
+  "ratingAltText": "{{year}} card",
+  "titlefifa":"{{name}} Evolution in FIFA",
+
+  "playerInGames": {
+    "title": "{{playerName}} in Video Games",
+    "description": {
+      "modric": "An overview of Luka Modrić’s representation in football video games, including player cards, face models, and video highlights.",
+      "ronaldo": "A visual timeline of Cristiano Ronaldo's journey through football video games, from early editions to his prime years.",
+      "kaka": "Explore Ricardo Kaká's FIFA history and his iconic presence in football games during his prime years."
+    },
+    "ratingsTitle": "🎮 FIFA Ratings Over the Years",
+    "visualEvolutionTitle": "📺 Visual Evolution",
+    "playerNotFound": "Player not found."
+  }
+}
+

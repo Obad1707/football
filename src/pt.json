@@ -1,0 +1,229 @@
+{
+  "selectPlayer": "Selecione um Jogador",
+  "players": {
+    "modric": "Luka Modrić",
+    "ronaldo": "Cristiano Ronaldo",
+    "kaka": "Kaká"
+  },
+  "footballLegend": "Lenda do Futebol",
+  "footballLegends": "Lendas do Futebol",
+  "details": "Detalhes",
+  "honours": "Títulos",
+  "stats": "Estatísticas",
+  "home": "Início",
+  "careerTimeline": "Linha do Tempo",
+  "highlightsMedia": "Destaques / Mídia",
+  "inGames": "{{name}} nos Jogos",
+  "Matches Played": "Partidas jogadas",
+  "Goals": "Gols",
+  "Minutes Played": "Minutos jogados",
+  "Assists": "Assistências",
+  "personalDetails": "Dados pessoais",
+  "competitionStats": "Estatísticas por competição",
+  "playerNotFound": "Jogador não encontrado.",
+  "Full Name": "Nome completo",
+  "Date of Birth": "Data de nascimento",
+  "Nationality": "Nacionalidade",
+  "Height": "Altura",
+  "Weight": "Peso",
+  "Position": "Posição",
+  "Club": "Clube",
+  "Jersey Number": "Número da camisa",
+
+  "European Cups": "Copas Europeias",
+  "FIFA Club World Cups": "Mundiais de Clubes da FIFA",
+  "European Super Cups": "Supertaças Europeias",
+  "National Leagues": "Ligas Nacionais",
+  "Spanish Cups": "Copas da Espanha",
+  "Spanish Super Cups": "Supertaças da Espanha",
+  "Croatian League Titles": "Títulos da Liga Croata",
+  "Croatian Cups": "Copas Croatas",
+  "Croatian Super Cup": "Supertaça Croata",
+  "Ballon d'Or": "Bola de Ouro",
+  "The Best FIFA Award": "Prêmio The Best da FIFA",
+  "UEFA Best Player": "Melhor Jogador da UEFA",
+  "World Cup Golden Ball": "Bola de Ouro da Copa do Mundo",
+  "Bronze Ball at World Cup": "Bola de Bronze na Copa do Mundo",
+  "FIFA/FIFPRO World XI": "FIFA/FIFPRO XI do Ano",
+  "Champions League Midfielder of the Season": "Melhor Meio-campista da Champions",
+  "The Best FIFA Men's Player": "Melhor Jogador do Mundo FIFA",
+  "UEFA Best Player in Europe": "Melhor Jogador da UEFA na Europa",
+  "Player of the Year": "Jogador do Ano",
+  "Champions League Winner": "Campeão da Champions League",
+  "FIFA Club World Cup Winner": "Campeão Mundial de Clubes FIFA",
+  "National League Titles": "Títulos de Ligas Nacionais",
+  "National Cups": "Copas Nacionais",
+  "National Super Cups": "Supertaças Nacionais",
+  "Golden Boot (Europe)": "Chuteira de Ouro (Europa)",
+  "UEFA Super Cup Winner": "Campeão da Supertaça da UEFA",
+  "UEFA Nations League Winner": "Campeão da Liga das Nações",
+  "Top Goal Scorer": "Artilheiro",
+  "European Champion": "Campeão Europeu",
+  "FIFA Puskás Award": "Prêmio Puskás da FIFA",
+  "Footballer of the Year": "Futebolista do Ano",
+  "World Cup Winner": "Campeão da Copa do Mundo",
+  "FIFA World Player of the Year": "Melhor Jogador do Mundo FIFA",
+  "UEFA Club Footballer of the Year": "Jogador do Ano da UEFA",
+  "FIFA Club World Cup": "Mundial de Clubes da FIFA",
+  "La Liga Title": "Título da La Liga",
+  "Supercoppa Italiana": "Supercopa Italiana",
+  "Serie A Title": "Título da Série A",
+  "Confederations Cup": "Copa das Confederações",
+
+  "Midfielder": "Meio-campista",
+  "Forward": "Atacante",
+  "Attacking Midfielder": "Meia-atacante",
+
+  "Matches As Starter": "Partidas como Titular",
+  "Matches As Sub": "Partidas como Reserva",
+  "Headed Goals": "Gols de Cabeça",
+  "Right Footed Goals": "Gols de Pé Direito",
+  "Left Footed Goals": "Gols de Pé Esquerdo",
+  "Penalties Taken": "Pênaltis Cobrado",
+  "Free Kick Goals": "Gols de Falta",
+  "Passes": "Passes",
+  "Penalties Scored": "Pênaltis Marcados",
+  "Shots": "Finalizações",
+  "Fouls Received": "Faltas Sofridas",
+  "Fouls Committed": "Faltas Cometidas",
+  "Balls Won Back": "Bolas Recuperadas",
+
+  "Sporting CP Debut": "Estreia no Sporting CP",
+  "Manchester United": "Manchester United",
+  "Real Madrid": "Real Madrid",
+  "Juventus": "Juventus",
+  "Return to Manchester United": "Retorno ao Manchester United",
+  "Al Nassr (Saudi Arabia)": "Al Nassr (Arábia Saudita)",
+
+  "GNK Dinamo Zagreb": "GNK Dinamo Zagreb",
+  "Loan to Zrinjski Mostar": "Empréstimo ao Zrinjski Mostar",
+  "Loan to Inter Zaprešić": "Empréstimo ao Inter Zaprešić",
+  "Tottenham Hotspur": "Tottenham Hotspur",
+  "EFL Cup Victory": "Vitória na EFL Cup",
+  "First Champions League Title with Real Madrid": "Primeiro título da Champions League com o Real Madrid",
+  "FIFA World Cup Russia 2018": "Copa do Mundo FIFA Rússia 2018",
+  "Ballon d’Or Winner": "Vencedor da Bola de Ouro",
+  "FIFA Best Men's Player Award": "Prêmio FIFA de Melhor Jogador",
+  "FIFA World Cup Qatar 2022": "Copa do Mundo FIFA Catar 2022",
+  "Continuing Success at Real Madrid": "Sucesso contínuo no Real Madrid",
+
+  "São Paulo FC": "São Paulo FC",
+  "AC Milan": "AC Milan",
+  "Return to AC Milan": "Retorno ao AC Milan",
+  "Orlando City SC": "Orlando City SC",
+  "Retirement": "Aposentadoria",
+
+  "Cristiano Ronaldo began his professional career at Sporting CP in Portugal, showcasing his speed and technical skills.": "Cristiano Ronaldo começou sua carreira profissional no Sporting CP em Portugal, destacando-se pela sua velocidade e habilidades técnicas.",
+  "Ronaldo signed for Manchester United and developed into one of the best players in the world, winning 3 Premier League titles and a Champions League.": "Ronaldo assinou com o Manchester United e se tornou um dos melhores jogadores do mundo, vencendo 3 títulos da Premier League e uma Champions League.",
+  "A historic move where he broke goal-scoring records, won 4 Champions Leagues, and established himself as a club legend.": "Uma transferência histórica onde quebrou recordes de gols, venceu 4 Champions Leagues e tornou-se uma lenda do clube.",
+  "Continued his winning ways in Italy with back-to-back Serie A titles.": "Continuou vencendo na Itália com títulos consecutivos da Serie A.",
+  "Made a highly anticipated return to Old Trafford, continuing to score consistently.": "Fez um aguardado retorno a Old Trafford, continuando a marcar regularmente.",
+  "Continues his football journey as a global ambassador for the sport.": "Continua sua jornada no futebol como embaixador global do esporte.",
+
+  "Luka Modrić began his professional career at Dinamo Zagreb as a promising young midfielder. During this period, he won multiple Croatian league titles and cups, quickly establishing himself as a key player. His impressive performances soon attracted interest from major European clubs.":
+    "Luka Modrić começou sua carreira profissional no Dinamo Zagreb como um jovem meio-campista promissor. Durante esse período, conquistou vários títulos da liga croata e copas, rapidamente se estabelecendo como um jogador chave. Suas atuações impressionantes logo atraíram interesse dos principais clubes europeus.",
+
+  "To gain valuable playing time and experience, Modrić was loaned to Bosnian club Zrinjski Mostar, where he demonstrated his potential and matured as a player.":
+    "Para ganhar tempo de jogo e experiência, Modrić foi emprestado ao clube bósnio Zrinjski Mostar, onde demonstrou seu potencial e amadureceu como jogador.",
+
+  "Following his spell at Zrinjski, Modrić spent another season on loan at Croatian side Inter Zaprešić, further honing his technique and tactical understanding.":
+    "Após sua passagem pelo Zrinjski, Modrić passou mais uma temporada emprestado ao clube croata Inter Zaprešić, aprimorando ainda mais sua técnica e entendimento tático.",
+
+  "Modrić’s move to Tottenham marked his entry into one of the world's most competitive leagues – the English Premier League. At Spurs, he developed a reputation as a world-class midfielder, known for his exceptional ball control, vision, and precise passing. He quickly became a vital figure in the team.":
+    "A transferência de Modrić para o Tottenham marcou sua entrada em uma das ligas mais competitivas do mundo – a Premier League inglesa. No Spurs, ele desenvolveu uma reputação como meio-campista de classe mundial, conhecido por seu controle excepcional da bola, visão e passes precisos. Rapidamente se tornou uma figura vital na equipe.",
+
+  "Modrić helped Tottenham secure the EFL Cup (League Cup), one of his first major trophies abroad.":
+    "Modrić ajudou o Tottenham a conquistar a EFL Cup (Taça da Liga), um de seus primeiros grandes troféus no exterior.",
+
+  "Joining Real Madrid propelled Modrić into the elite echelon of world football. He has since won multiple UEFA Champions League titles, La Liga championships, and FIFA Club World Cups, becoming the team captain and a symbol of the club’s sustained success.":
+    "Ingressar no Real Madrid impulsionou Modrić para a elite do futebol mundial. Desde então, ele conquistou múltiplos títulos da UEFA Champions League, campeonatos da La Liga e a Copa do Mundo de Clubes da FIFA, tornando-se capitão da equipe e símbolo do sucesso contínuo do clube.",
+
+  "A key player in Real Madrid’s historic ‘La Décima’ – their 10th UEFA Champions League title.":
+    "Jogador chave na histórica ‘La Décima’ do Real Madrid – seu 10º título da UEFA Champions League.",
+
+  "Modrić captained Croatia to their best-ever World Cup finish – the final – securing a silver medal. His outstanding performances earned him the Golden Ball as the tournament’s best player.":
+    "Modrić capitaneou a Croácia até a melhor participação da história da Copa do Mundo – a final – conquistando a medalha de prata. Suas atuações excepcionais lhe renderam a Bola de Ouro como melhor jogador do torneio.",
+
+  "Recognized for his extraordinary performances for both club and country, Modrić won the prestigious Ballon d’Or, becoming the first Croatian to receive this honor.":
+    "Reconhecido por suas atuações extraordinárias tanto no clube quanto na seleção, Modrić ganhou a prestigiada Bola de Ouro, tornando-se o primeiro croata a receber essa honra.",
+
+  "Awarded FIFA’s Best Men’s Player for 2018, cementing his status as one of the world’s top footballers.":
+    "Premiado como Melhor Jogador Masculino da FIFA em 2018, consolidando seu status como um dos melhores jogadores do mundo.",
+
+  "Led Croatia once again to a strong World Cup performance, demonstrating his leadership and enduring quality in the twilight of his career.":
+    "Conduziu a Croácia mais uma vez a uma forte performance na Copa do Mundo, demonstrando sua liderança e qualidade duradoura no final de sua carreira.",
+
+  "Remains a key player for Real Madrid, consistently contributing with top-class performances and helping the club pursue more titles.":
+    "Permanece um jogador-chave para o Real Madrid, contribuindo consistentemente com atuações de alto nível e ajudando o clube a buscar mais títulos.",
+
+
+"timelineTitle": "Linha do Tempo da Carreira de {{name}}",
+  "timelineIntro": "Explore os momentos-chave na carreira de {{name}} — desde os primeiros passos até o status lendário.",
+
+  "Kaká began his professional career in Brazil with São Paulo FC. He quickly drew attention for his technical skills and creativity on the field.":
+    "Kaká começou sua carreira profissional no Brasil com o São Paulo FC. Rapidamente chamou atenção por suas habilidades técnicas e criatividade em campo.",
+  
+  "His transfer to AC Milan marked the beginning of his European career. Kaká became one of the best players in the world, winning Serie A and the UEFA Champions League. In 2007, he was awarded the Ballon d'Or.":
+    "Sua transferência para o AC Milan marcou o início de sua carreira europeia. Kaká se tornou um dos melhores jogadores do mundo, conquistando a Serie A e a UEFA Champions League. Em 2007, recebeu a Bola de Ouro.",
+  
+  "Kaká won the prestigious Ballon d'Or, beating out both Lionel Messi and Cristiano Ronaldo to be named the best footballer in the world.":
+    "Kaká ganhou a prestigiosa Bola de Ouro, superando Lionel Messi e Cristiano Ronaldo para ser nomeado o melhor jogador de futebol do mundo.",
+  
+  "Joining Real Madrid as one of the famed Galácticos, Kaká experienced highs and lows, including injuries. Still, he helped the club win trophies such as La Liga and the Copa del Rey.":
+    "Ingressando no Real Madrid como um dos famosos Galácticos, Kaká viveu altos e baixos, incluindo lesões. Mesmo assim, ajudou o clube a conquistar troféus como La Liga e a Copa del Rey.",
+  
+  "Kaká returned to AC Milan for a brief but emotional stint. While the team struggled competitively, his presence brought experience and leadership.":
+    "Kaká retornou ao AC Milan para uma passagem breve, porém emocionante. Embora a equipe tenha enfrentado dificuldades competitivas, sua presença trouxe experiência e liderança.",
+  
+  "Kaká moved to Major League Soccer, becoming the first-ever captain of Orlando City. He played a vital role in growing the sport’s popularity in the United States.":
+    "Kaká se transferiu para a Major League Soccer, tornando-se o primeiro capitão do Orlando City. Ele desempenhou um papel vital no crescimento da popularidade do esporte nos Estados Unidos.",
+  
+  "Kaká officially retired from professional football, leaving behind a legacy as one of the most beloved and respected players of his generation.":
+    "Kaká oficialmente se aposentou do futebol profissional, deixando um legado como um dos jogadores mais queridos e respeitados de sua geração.",
+    
+  "highlights": {
+    "title": "Destaques e Mídia: {{player}}",
+    "description": "Uma coleção selecionada de momentos icônicos, vídeos de destaques e citações inspiradoras da carreira lendária de {{player}}.",
+    "videoHighlights": "Vídeos de Destaque",
+    "iconicPhotos": "Fotos Icônicas",
+    "quotesAndSayings": "Citações e Ditados"
+  },
+  "The team is always more important than the individual.": "O time é sempre mais importante do que o indivíduo.",
+  "I strive to improve every single day.": "Eu me esforço para melhorar todos os dias.",
+  "Focus and hard work are the keys to success.": "Foco e trabalho duro são as chaves para o sucesso.",
+
+  "Your love makes me strong, your hate makes me unstoppable.": "Seu amor me torna forte, seu ódio me torna imparável.",
+  "Talent without working hard is nothing.": "Talento sem trabalho duro não é nada.",
+  "I’m living a dream I never want to wake up from.": "Estou vivendo um sonho do qual nunca quero acordar.",
+
+  "I belong to Jesus.": "Eu pertenço a Jesus.",
+  "Success is not about wealth or fame; it's about being the best version of yourself.": "Sucesso não é sobre riqueza ou fama; é sobre ser a melhor versão de si mesmo.",
+  "Football is just part of my life, not my entire life.": "O futebol é apenas parte da minha vida, não minha vida inteira.",
+  "footer": {
+    "aboutTitle": "Sobre",
+    "aboutDescription": "Site dedicado às lendas do futebol.",
+    "quickLinksTitle": "Links Rápidos",
+    "playerMenu": "Menu de Jogadores",
+    "contactTitle": "Contato",
+    "contactEmail": "Email: luka.obad@gmail.com",
+    "copyright": "© {{year}} Feito por Luka Obad. Todos os direitos reservados."
+  },
+  "pageTitle": "{{name}} nos Videogames",
+  "pageDescription": "{{description}}",
+    "titlefifa":"{{name}} Evolução no FIFA",
+  "ratingsTitle": "🎮 Classificações FIFA ao Longo dos Anos",
+  "visualEvolutionTitle": "📺 Evolução Visual",
+  "ratingAltText": "Cartão de {{year}}",
+  "playerInGames": {
+    "title": "{{playerName}} nos Videojogos",
+    "description": {
+      "modric": "Uma visão geral da representação de Luka Modrić nos jogos de futebol, incluindo cartas de jogador, modelos de rosto e destaques em vídeo.",
+      "ronaldo": "Uma linha do tempo visual da jornada de Cristiano Ronaldo nos jogos de futebol, desde as primeiras edições até seus anos de auge.",
+      "kaka": "Explore a história do FIFA de Ricardo Kaká e sua presença icônica nos jogos de futebol durante seus anos de auge."
+    },
+    "ratingsTitle": "🎮 Classificações FIFA ao longo dos anos",
+    "visualEvolutionTitle": "📺 Evolução Visual",
+    "playerNotFound": "Jogador não encontrado."
+  }
+
+}
