@@ -91,29 +91,39 @@ export default function Header() {
             </nav>
           )}
 
-          <div style={{ marginLeft: "auto", display: "flex", gap: "10px" }}>
+         <div style={{ marginLeft: "auto", display: "flex", gap: "10px" }}>
             <button
-              onClick={() => changeLanguage("en")}
-              style={{
-                fontWeight: i18n.language === "en" ? "bold" : "normal",
-                cursor: "pointer",
-                padding: "5px 10px",
-              }}
-            >
-              EN
-            </button>
-            <button
-              onClick={() => changeLanguage("pt")}
-              style={{
-                fontWeight: i18n.language === "pt" ? "bold" : "normal",
-                cursor: "pointer",
-                padding: "5px 10px",
-              }}
-            >
-              PT
-            </button>
-          </div>
-        </>
+            onClick={() => changeLanguage("en")}
+            style={{
+              fontWeight: i18n.language === "en" ? "bold" : "normal",
+              cursor: "pointer",
+              padding: "8px 16px",
+              borderRadius: "6px",
+              border: "1px solid #ccc",
+              backgroundColor: i18n.language === "en" ? "#f0f0f0" : "white",
+              transition: "background-color 0.3s, box-shadow 0.3s",
+              boxShadow: i18n.language === "en" ? "0 0 5px rgba(0, 0, 0, 0.1)" : "none",
+            }}
+          >
+            EN
+          </button>
+          <button
+            onClick={() => changeLanguage("pt")}
+            style={{
+              fontWeight: i18n.language === "pt" ? "bold" : "normal",
+              cursor: "pointer",
+              padding: "8px 16px",
+              borderRadius: "6px",
+              border: "1px solid #ccc",
+              backgroundColor: i18n.language === "pt" ? "#f0f0f0" : "white",
+              transition: "background-color 0.3s, box-shadow 0.3s",
+              boxShadow: i18n.language === "pt" ? "0 0 5px rgba(0, 0, 0, 0.1)" : "none",
+            }}
+          >
+            PT
+          </button>
+        </div>
+                </> 
       ) : (
         <div
           className="center-section"
